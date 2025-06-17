@@ -27,7 +27,7 @@ Project Euler is a collection of challenging mathematical and computer programmi
 This repository contains solutions to various problems, implemented in **Python** 🐍.  
 The goal is to provide clear and efficient solutions while also enhancing programming skills.
 
-![Euler Animation](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![Euler Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NpZmE1ZXNheWNiYmZycDByN3FsY2twZjFhOWU4OHVhbDJhbnA0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfffvKvAfDaXQv6/giphy.gif)
 
 ---
 
