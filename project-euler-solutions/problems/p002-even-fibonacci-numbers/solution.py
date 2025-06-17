@@ -10,3 +10,5 @@ def even_fibonacci_sum(limit):
 if __name__ == "__main__":
     result = even_fibonacci_sum(4000000)
     print(f"The sum of the even-valued terms in the Fibonacci sequence not exceeding four million is: {result}")
+
+

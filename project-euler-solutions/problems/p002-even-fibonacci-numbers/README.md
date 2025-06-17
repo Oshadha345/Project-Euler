@@ -17,9 +17,6 @@ The solution to this problem involves generating Fibonacci numbers and checking 
 - We will iterate through the sequence, checking each term to see if it is even.
 - The sum of all even Fibonacci numbers will be calculated and returned.
 
-## Usage
-To run the solution, execute the `solution.py` file in a Python environment. Ensure that you have Python installed on your machine.
-
 ## Example
 For example, the even Fibonacci numbers less than four million are:
 ```
@@ -31,5 +28,7 @@ Their sum is:
 ```
 
 ## Notes
-- This problem is a great exercise in understanding both recursion and iteration.
-- Consider optimizing the solution to avoid unnecessary calculations, especially for larger limits.
+
+
+- `optimized.py` has a optimised version without calculating the each term and checking their parity, straightaway generating even fibbonacci numbers using identities related to fibonacci numbers.
+
