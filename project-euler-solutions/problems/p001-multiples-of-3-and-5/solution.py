@@ -11,7 +11,9 @@ def sum_of_multiples(limit):
 
     Returns:
         int: The sum of all multiples of 3 or 5 below the limit.
+        
     """
+    limit-=1 # Adjust limit to be exclusive, in the problems description it says "below the limit"
     
     num_3 = limit // 3
     num_5 = limit // 5
@@ -20,8 +22,8 @@ def sum_of_multiples(limit):
     sum = 3 * arithmetic_sum(num_3) + 5 * arithmetic_sum(num_5) - 15 * arithmetic_sum(num_15)
     # The sum of multiples of 3 and 5 below the limit is:
     # sum of multiples of 3 + sum of multiples of 5 - sum of multiples of 15 (to avoid double counting)
-    
-    return sum 
+    return sum
+
 
 
 
