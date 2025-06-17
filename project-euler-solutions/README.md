@@ -4,7 +4,7 @@ Welcome to the **Project Euler Solutions** repository!
 This project is dedicated to solving the mathematical and computational challenges posed by [Project Euler](https://projecteuler.net/).  
 Each problem is tackled with a unique solution, and the code is organized for clarity and ease of understanding.
 
-![Math Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Math Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY2eWpldTI3dDZsd2FmM2R3NW00M2tvdTcwenBqZHEzaGp0OXR5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif)
 
 ---
 
